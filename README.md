@@ -1,5 +1,5 @@
 
-<h1 align="center">Hi 👋, I'm Salman Mulla</h1>
+<h1 align="center">Hi 👋, I'm Amlan Dibyajyoti Jena</h1>
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
@@ -7,7 +7,7 @@
 
 - 🌱 **Learning Never Stops 🚀**
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
-- 📫 How to reach me **mullasalman1010@gmail.com**
+- 📫 How to reach me **amlandibyajyotijena@gmail.com**
 - 😄 Pronouns: **He/His**
 
 <h3 align="left">Connect with me:</h3>
