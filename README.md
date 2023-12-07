@@ -35,9 +35,7 @@
 </div>
 
 <br/>
-<p>
-     <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=salmanmulla1010&show_icons=true&locale=en&layout=compact" alt="salmanmulla1010" />
-</p>
+
 
 <p>&nbsp;
      <img align="center" src="https://github-readme-stats.vercel.app/api?username=salmanmulla1010&show_icons=true&locale=en" alt="salmanmulla1010" />
@@ -48,5 +46,5 @@
 
 
 
-<img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
+
 
