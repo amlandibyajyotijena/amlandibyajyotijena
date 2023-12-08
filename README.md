@@ -3,7 +3,7 @@
 <h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
 <img align="right" alt="GIF" src="https://github.com/AswinBarath/AswinBarath/blob/master/coding.gif?raw=true" width="408" height="318" />
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanmulla1010&label=Profile%20views&color=0e75b6&style=flat" alt="salmanmulla1010" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=salmanmulla1010&label=Profile%20views&color=0e75b6&style=flat" alt="amlandibyajyotijena" /> </p>
 
 - 🌱 **Learning Never Stops 🚀**
 - 💬 Ask me about **Web Development, Java, DBMS, MySQL**
